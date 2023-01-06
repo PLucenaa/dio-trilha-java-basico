@@ -5,13 +5,6 @@
 
 package pet.brood.tipos.variaveis;
 
-/**
- *
- * @author e0124
- */
 public class TiposVariaveis {
 
-    public static void main(String[] args) {
-        System.out.println("Hello World!");
-    }
 }
